@@ -6,6 +6,9 @@
 // @author       EphemeralDust
 // @match        https://www.youtube.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=youtube.com
+// @homepageURL  https://github.com/Ephemeral-Dust/custom-userscript-repo/tree/main
+// @updateURL    https://raw.githubusercontent.com/Ephemeral-Dust/custom-userscript-repo/main/youtube-paidpromotionremover.js
+// @downloadURL  https://raw.githubusercontent.com/Ephemeral-Dust/custom-userscript-repo/main/youtube-paidpromotionremover.js
 // @run-at       document-idle
 // ==/UserScript==
 

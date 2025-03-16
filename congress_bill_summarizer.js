@@ -8,6 +8,9 @@
 // @grant        GM.xmlHttpRequest
 // @grant        GM_addStyle
 // @run-at       document-idle
+// @homepageURL  https://github.com/Ephemeral-Dust/custom-userscript-repo/tree/main
+// @updateURL    https://raw.githubusercontent.com/Ephemeral-Dust/custom-userscript-repo/main/congress_bill_summarizer.js
+// @downloadURL  https://raw.githubusercontent.com/Ephemeral-Dust/custom-userscript-repo/main/congress_bill_summarizer.js
 // ==/UserScript==
 
 /*

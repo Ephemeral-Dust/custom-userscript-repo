@@ -8,6 +8,9 @@
 // @match        https://old.reddit.com/*
 // @grant        GM_addStyle
 // @icon         https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png
+// @homepageURL  https://github.com/Ephemeral-Dust/custom-userscript-repo/tree/main
+// @updateURL    https://raw.githubusercontent.com/Ephemeral-Dust/custom-userscript-repo/main/reddit-snapping.js
+// @downloadURL  https://raw.githubusercontent.com/Ephemeral-Dust/custom-userscript-repo/main/reddit-snapping.js
 // @run-at       document-idle
 // ==/UserScript==
 

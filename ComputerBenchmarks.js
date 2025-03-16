@@ -8,6 +8,9 @@
 // @match    https://www.videocardbenchmark.net/*
 // @grant    GM_addStyle
 // @icon     https://www.cpubenchmark.net/favicon.ico
+// @homepageURL  https://github.com/Ephemeral-Dust/custom-userscript-repo/tree/main
+// @updateURL    https://raw.githubusercontent.com/Ephemeral-Dust/custom-userscript-repo/main/ComputerBenchmarks.js
+// @downloadURL  https://raw.githubusercontent.com/Ephemeral-Dust/custom-userscript-repo/main/ComputerBenchmarks.js
 // @run-at   document-end
 // ==/UserScript==
 
